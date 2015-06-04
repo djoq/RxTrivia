@@ -1,7 +1,7 @@
 # RxTrivia
 
 ------
-Android webview client
+Android webview client- debug version
 ------
 
 After installing IDE,
